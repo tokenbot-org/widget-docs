@@ -1,6 +1,6 @@
 # TokenBot Widget HTML Documentation
 
-[TokenBot®](htttps://tokenbot.com) is a chat-bot membership platform for traders on Telegram. You can read more about TokenBot here: http://tokenbot.com.
+[TokenBot®](htttps://tokenbot.com) is a chat-bot membership platform for traders on Telegram. You can learn more about TokenBot here: http://tokenbot.com.
 
 The **TokenBot® Subscribe Widget** allows you to display a subscribe button on any external webpage. 
 
