@@ -1,2 +1,2 @@
-# widget-docs
-TokenBot Widget HTML Documentation
+# TokenBot Widget HTML Documentation
+
