@@ -18,12 +18,12 @@ The **TokenBot Subscribe Widget** contains the following functionality:
 ```html
 <iframe scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"
             style="position: static; visibility: visible; width: 300px; height: 30px; background: transparent"
-            src='https://tokenbot.com/widget-[light|dark]?u=[TELEGRAM_USERNAME]'></iframe>
+            src='https://tokenbot.com/widget-[light|dark]?u=[MY_TELEGRAM_USERNAME]'></iframe>
 ```
 
 The **TokenBot Widget** requires the following argument:
- - *Telegram username* - querystring parameter - i.e /widget-light?u=tokenbot
- - *Theme color* - light or dark - i.e. https://tokenbot.com/widget-dark
+ - *Telegram username* - querystring parameter - i.e /widget-light?u=[MY TELEGRAM_USERNAME]
+ - *Theme color* - light or dark - i.e. https://tokenbot.com/widget-[light|dark]
 
  
  Please contact us at team@tokenbot.com for any questions.
